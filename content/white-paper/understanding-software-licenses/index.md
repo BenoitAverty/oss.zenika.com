@@ -20,7 +20,7 @@ This foundation gives a definition of free software based on four irrevocable fr
 - Freedom to study the software (suppose access to the source code).
 - Freedom to modify the software and redistribute the modified versions.
 
-Free license works are not always available for free and you will often paid for associated services (development, warranties, support, etc.). A work contaminated by a free license, which could initially be available only against payment, must be rebroadcast freely.
+Free license works are not always available for free and you will often pay for associated services (development, warranties, support, etc.). A work contaminated by a free license, which could initially be available only against payment, must be rebroadcast freely.
 
 > « Think Free as Free speech and not Free beer »
 >
@@ -67,7 +67,7 @@ The GNU General Public License, originally written by Richard Stallman, was the 
 
 ## What type of license to choose or use?
 
-A free software always has a license (contract) of use associated, it is necessary to analyze the conditions of use, the rights and the obligations resulting from it.
+A free software always has a license (contract) of use associated. It is necessary to analyze the conditions of use, the rights and the obligations resulting from it.
 
 To facilitate the understanding of the different types of licenses, we can classify them according to the degree of freedom they grant to the user:
 
